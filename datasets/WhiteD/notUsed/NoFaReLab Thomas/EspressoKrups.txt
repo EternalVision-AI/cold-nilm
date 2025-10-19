@@ -1,0 +1,37 @@
+Krups:
+1) "Gerät heizt vor"
+2) "Gerät im Auto Test"
+3) <noch immer test>
+4) Spülen
+5) Heizen
+6) Heizen
+7) Standby
+
+8) Heizen
+9) Heißwasser
+8) Heizen
+10) Dampf / Milchschaum
+11) Dampfzyklus
+12) Dampfzyklus
+
+
+13) Heizen
+14) Heizen
+15) Milchschaum
+16) Milchschaum
+17) Milchschaum
+
+18) Kaffee mahlen
+19) Heizen / Kaffee brühen
+20) Heizen / Kaffee brühen
+21) Heizen
+
+
+22) Dampf Heizen
+23) Milchschaum
+24) Milchschaum
+25) Milchschaum
+
+26) Kaffee mahlen
+27) Kaffee brühen
+28) Heizen
